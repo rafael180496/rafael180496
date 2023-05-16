@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Aws,Kubernet and projects cloud projects with red hat and node js with docker**
 
-- 👯 I’m looking to collaborate on [CoreUtil golang](https://github.com/rafael180496/core-util)
+- 👯 I’m looking to collaborate on [Pocolab-utils golang](https://github.com/rafael180496/pocolab-utils)
 
 - 👨‍💻 All of my projects are available at [https://rafael180496.github.io/template_cv_react/](https://rafael180496.github.io/template_cv_react/)
 
