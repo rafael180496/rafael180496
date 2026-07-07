@@ -54,52 +54,8 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
----
 
-### 📌 Proyectos destacados
 
-<p align="left">
-  <a href="https://github.com/rafael180496/pocolab-utils">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=pocolab-utils&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/rafael180496/pocolab-database">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=pocolab-database&theme=dracula&hide_border=true" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/rafael180496/core-util">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=core-util&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/rafael180496/go-ora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=go-ora&theme=dracula&hide_border=true" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/rafael180496/mini-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=mini-tools&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/rafael180496/template_cv_react">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafael180496&repo=template_cv_react&theme=dracula&hide_border=true" />
-  </a>
-</p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael180496&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" />
-  <img src="https://streak-stats.demolab.com?user=rafael180496&theme=dracula&hide_border=true" height="165" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael180496&layout=compact&theme=dracula&hide_border=true" height="165" />
-</p>
-
-<details>
-  <summary>🏆 Ver trofeos de GitHub</summary>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=rafael180496&theme=dracula&no-frame=true&row=1&column=7" />
-</details>
 
 ---
 
